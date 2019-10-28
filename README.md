@@ -1,2 +1,2 @@
 # helloworld
-study
+print("hello")
